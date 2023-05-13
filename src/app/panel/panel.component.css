@@ -1,0 +1,9 @@
+.div-center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Align horizontal */
+  align-items: center;
+  background-color: rgba(174,202,255,0.2);
+  border-radius: 10px;
+  min-height: 200px;
+}
